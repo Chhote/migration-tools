@@ -1,6 +1,6 @@
 # NuoDB Migrator #
 
-[![Build Status](https://travis-ci.org/nuodb/migration-tools.png?branch=master)](https://travis-ci.org/nuodb/migration-tools)
+[![Build Status](https://travis-ci.org/Chhote/migration-tools.png?branch=master)](https://travis-ci.org/nuodb/migration-tools)
 
 *A command-line interface for helping domain administrators manage backup and migration of their databases.*
 

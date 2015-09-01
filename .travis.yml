@@ -7,7 +7,7 @@ jdk:
 
 notifications:
   recipients:
-    - migrator@nuodb.com
+    - kumarchhote711@gmail.com
 
 before_install:
   - ./test/mysql_setup.sh
